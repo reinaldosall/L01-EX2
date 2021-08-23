@@ -1,0 +1,4 @@
+/home/runner/L01-EX2/obj/Debug/netcoreapp2.1/main.csprojAssemblyReference.cache
+/home/runner/L01-EX2/obj/Debug/netcoreapp2.1/main.csproj.CoreCompileInputs.cache
+/home/runner/L01-EX2/obj/Debug/netcoreapp2.1/main.AssemblyInfoInputs.cache
+/home/runner/L01-EX2/obj/Debug/netcoreapp2.1/main.AssemblyInfo.cs
